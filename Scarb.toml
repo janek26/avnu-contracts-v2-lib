@@ -19,3 +19,6 @@ sierra = true
 [tool.fmt]
 sort-module-level-items = true
 max-line-length = 150
+
+# Allows to use the repository as dependency in other projects
+[lib]
